@@ -1,0 +1,7 @@
+folium==0.19.5
+matplotlib==3.10.1
+meteostat==1.6.8
+pandas==2.2.3
+python_dateutil==2.9.0.post0
+streamlit==1.44.1
+streamlit_folium==0.24.1
