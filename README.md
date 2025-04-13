@@ -15,7 +15,7 @@ This application offers an interactive way to browse per-station climate data. A
 
 ## Accessing the Application Online
 
-The application should be accessible on Streamlit Community Cloud.
+The application should be accessible on [Streamlit Community Cloud](https://meteostatclimatemapper.streamlit.app/).
 
 ## Local Installation Instructions
 
